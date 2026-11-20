@@ -1,0 +1,8 @@
+{
+  "name": "Calculator",
+  "description": "A tactile, high-precision Android calculator with live expression preview, scientific functions, calculation history, and adaptive light/dark themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

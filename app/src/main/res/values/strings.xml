@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="toggle_scientific_cd">Toggle scientific keypad</string>
+    <string name="toggle_theme_cd">Switch light and dark theme</string>
+    <string name="open_history_cd">Open calculation history</string>
+    <string name="copy_result_cd">Copy result to clipboard</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="history_title">History</string>
+    <string name="clear_history">Clear</string>
+    <string name="clear_history_cd">Clear calculation history</string>
+    <string name="history_empty_title">No calculations yet</string>
+    <string name="history_empty_subtitle">Your solved expressions will appear here for quick reuse.</string>
+    <string name="close_history_cd">Close history</string>
+    <string name="angle_mode_deg">DEG</string>
+    <string name="angle_mode_rad">RAD</string>
+    <string name="toggle_angle_mode_cd">Switch between degrees and radians</string>
+    <string name="backspace_cd">Backspace</string>
+    <string name="error_divide_by_zero">Cannot divide by zero</string>
+    <string name="error_invalid_expression">Invalid expression</string>
+    <string name="error_domain">Domain error</string>
+    <string name="error_overflow">Value out of range</string>
+</resources>
